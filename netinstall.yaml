@@ -125,11 +125,10 @@
     - eos-log-tool
     - keyserver-rank
     - inxi
-
 - name: "i3 Window Manager"
   description: "i3 tiling window manager, primarily targeted at developers and advanced users. "
   hidden: false
-  selected: false
+  selected: true
   critical: false
   packages:
     - acpi
